@@ -1,4 +1,4 @@
-package closer_test
+package mkcloser_test
 
 import (
 	"bytes"

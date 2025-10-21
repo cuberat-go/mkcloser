@@ -1,4 +1,4 @@
-package closer
+package mkcloser
 
 import (
 	// Built-in/core modules.
